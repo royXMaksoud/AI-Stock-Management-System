@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nexus WMS - Enterprise Warehouse Management",
+  "description": "A comprehensive, multi-tenant warehouse management system featuring real-time inventory tracking, dashboard analytics, and advanced AI-powered capabilities including image analysis and deep reasoning assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
